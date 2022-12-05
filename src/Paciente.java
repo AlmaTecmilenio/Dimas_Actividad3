@@ -1,5 +1,5 @@
 /*Autor: Alma Dimas Sanchez
-Materia: Computación en Java
+Materia: Taller de productividad basada en herramientas tecnológicas
  */
 
 public class Paciente {
