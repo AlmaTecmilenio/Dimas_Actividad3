@@ -29,4 +29,33 @@ Este sistema de citas es una herramienta a través de la cual el consultorio mé
 
 Para acceder al sistema se tiene que usar un usuario y contraseña, así que de esta manera también se podrá salvaguardar la privacidad del cliente.
 
+
+
+
+Instrucciones para el programa con instrucciones para el usuario administrador:
+
+1. Inicio el sistema al dar clic en “run” en el IDE (IntelliJ, NetBeans, Eclipse, o el de su elección)
+2. Ingresar usuario.
+3. Ingresar contraseña.
+4. El programa leerá el usuario y contraseña, si es correcta podrá acceder al programa, si no, favor de volver a ingresar los datos
+5. Si el usuario es tipo Administrador, se podrá acceder al sistema con los siguientes privilegios:
+•	Dar de Alta a Doctor en el Sistema
+•	Dar de alta a paciente en el sistema
+•	Ver citas
+•	Cerrar sesión
+6. Preguntar al tipo de usuario Administrador si desea dar de alta a doctor al sistema.
+7. Elegir la opción deseada o salir del sistema.
+8. Si el usuario es tipo Doctor,  se podrá acceder al sistema con los siguientes privilegios:
+•	Dar de alta a paciente en el sistema
+•	Agregar cita al sistema
+•	Ver citas
+•	Cerrar sesión
+9. Preguntar al tipo de usuario Doctor si desea dar de alta a paciente al sistema.
+10. Si sí, dar de alta a paciente solo con usuario.
+11. Elegir la opción deseada o salir del sistema.
+
+El código fuente del programa incluye las credenciales del admin principal
+ 
+En caso de que se deseen cambiar, solo se tendrá que modificar el código.
+
   
