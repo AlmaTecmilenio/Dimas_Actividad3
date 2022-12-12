@@ -1,3 +1,7 @@
+El documento completo se puede descargar de la siguiente liga
+https://github.com/AlmaTecmilenio/Dimas_Actividad3/blob/master/Actividad%204.docx
+
+
 a.	Descripción
 El programa es un Sistema de citas para consultorio medico que tiene tres tipos de usuarios: Administrador, Doctor y Paciente.
 Dependiendo del tipo de usuario, el programa tiene distintas funciones permitidas.
