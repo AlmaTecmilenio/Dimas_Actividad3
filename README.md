@@ -1,6 +1,8 @@
 a.	Descripción
 El programa es un Sistema de citas para consultorio medico que tiene tres tipos de usuarios: Administrador, Doctor y Paciente.
 Dependiendo del tipo de usuario, el programa tiene distintas funciones permitidas.
+
+
 El usuario tipo “Administrador” puede realizar las siguientes funciones:
 •	Acceder al sistema
 •	Dar de Alta a los Pacientes
